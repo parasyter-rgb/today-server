@@ -1,0 +1,5 @@
+.git
+.gitattributes
+README.md
+Build/*_BurstDebugInformation_DoNotShip
+Build/*_BackUpThisFolder_ButDontShipItWithYourGame
